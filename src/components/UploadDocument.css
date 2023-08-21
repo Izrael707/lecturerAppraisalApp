@@ -1,0 +1,16 @@
+.doc-container{
+    border: 1px solid gray
+}
+
+.mycont{
+    padding-top: 30px;
+}
+
+.upload-con{
+    text-decoration: none;
+    color: black;
+}
+
+.upload-con p:hover{
+    color: #0dcaf0;
+}

@@ -1,0 +1,23 @@
+.adm-button{
+    padding: 10px 10px;
+
+}
+
+.adm-button-container{
+    top: 70px;
+    position: relative;
+    background-color: black;
+    margin-left: 10px;
+    padding: 50px 1px;
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.adm-button-container:hover{
+    background-color: #146e17;
+}
+
+.active{
+    display: block;
+}

@@ -1,0 +1,25 @@
+.accept {
+    top: 70px;
+    position: relative;
+    background-color: #146e17;
+    margin-left: 10px;
+    padding: 50px 1px;
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.reject{
+    top: 70px;
+    position: relative;
+    background-color: red;
+    margin-left: 10px;
+    padding: 50px 1px;
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
